@@ -58,5 +58,4 @@ var portfolioItems = [
     image: 'assets/po8.png',
     url:'https://youtu.be/k8sPQiAjgVg'
   },
-
 ];
