@@ -54,8 +54,8 @@ var portfolioItems = [
   },
   {
     title: '프로젝트 8',
-    description: 'hideu 팀 프로젝트 마지막 영상입니다. 사용 AI:GPT5 , Sora, Krea,',
+    description: 'hideu 팀 프로젝트 마지막 영상입니다. 사용 AI:GPT5 , Sora, Krea, 인트로, 타이포 그래픽제작 파트를 맡았습니다.',
     image: 'assets/po8.png',
     url:'https://youtu.be/k8sPQiAjgVg'
-  },
+  }
 ];
