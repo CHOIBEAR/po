@@ -39,5 +39,18 @@ var portfolioItems = [
     description: '학원에서 팀원들과 제작한 타이포그래피 영상 입니다. 프로젝트에서 팀장, 기획, 파트3(영상 후반부)를 맡았습니다.',
     image: 'assets/po5.png',
     url: 'https://drive.google.com/file/d/10hcHtG5uhQMHt07Ro_yOsZJdLZm0QZcp/view'
-  }
+  },
+  {
+    title: '프로젝트 6',
+    description: '최초로 ai로 영상을 제작한 프로젝트입니다. 하일루오AI를 이용해 영상을 제작 했습니다.',
+    image: 'assets/po6.png',
+    url: 'https://youtu.be/BsqI_9JLpNk'
+  },
+  {
+    title: '프로젝트 7',
+    description: 'hideu 최종 발표용 프로젝트.사용 AI:GPT5 , Sora2, Krea, Mureka',
+    image: 'assets/po7.png',
+    url: 'https://youtu.be/lr4zIpO3Cko'
+  },
+  
 ];
