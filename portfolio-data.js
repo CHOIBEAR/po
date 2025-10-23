@@ -67,13 +67,13 @@ var portfolioItems = [
   {
     title: '프로젝트 9',
     description: '학원 팀 프로젝트 3차 영상입니다. 에프터 이펙트를 시도해본 영상입니다.',
-    image: 'assets/po8.png',
+    image: 'assets/po9.png',
     url:'https://youtu.be/PIvX50T3WuQ'
   },
   {
     title: '프로젝트 10',
     description: '학원 팀 프로젝트 4차 영상입니다. 에프터이펙트 파트를 맡았습니다.',
-    image: 'assets/po8.png',
+    image: 'assets/po10.png',
     url:'https://youtu.be/7V_8f2wgPgw'
   }
 ];
