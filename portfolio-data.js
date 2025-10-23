@@ -32,19 +32,19 @@ var portfolioItems = [
     title: '프로젝트 3',
     description: '기획, 편집, 효과 제작을 한 광고 영상제작입니다. 학원에서 처음으로 만들어본 영상입니다.',
     image: 'assets/po3.png',
-    url: 'https://drive.google.com/file/d/1MFP5g63ns8HMhJkvqpTlko5rgr4bjhtL/view'
+    url: 'https://youtu.be/K33gXvOMrhs'
   },
   {
     title: '프로젝트 4',
     description: '생성형 AI 제작 영상입니다. 미드저니 AI 툴을 이용했습니다.',
     image: 'assets/po4.png',
-    url: 'https://drive.google.com/file/d/135utRsNgJ0BrxoeTaWmAjPoj6y6t2qD0/view'
+    url: 'https://youtu.be/WR0JcWfVCZY'
   },
   {
     title: '프로젝트 5',
     description: '학원에서 팀원들과 제작한 타이포그래피 영상 입니다. 프로젝트에서 팀장, 기획, 파트3(영상 후반부)를 맡았습니다.',
     image: 'assets/po5.png',
-    url: 'https://drive.google.com/file/d/10hcHtG5uhQMHt07Ro_yOsZJdLZm0QZcp/view'
+    url: 'https://youtu.be/SYhvI94qoIw'
   },
   {
     title: '프로젝트 6',
@@ -63,5 +63,17 @@ var portfolioItems = [
     description: 'hideu 팀 프로젝트 마지막 영상입니다. 사용 AI:GPT5 , Sora, Krea, 인트로, 타이포 그래픽제작 파트를 맡았습니다.',
     image: 'assets/po8.png',
     url:'https://youtu.be/k8sPQiAjgVg'
+  },
+  {
+    title: '프로젝트 9',
+    description: '학원 팀 프로젝트 3차 영상입니다. 에프터 이펙트를 시도해본 영상입니다.',
+    image: 'assets/po8.png',
+    url:'https://youtu.be/PIvX50T3WuQ'
+  },
+  {
+    title: '프로젝트 10',
+    description: '학원 팀 프로젝트 4차 영상입니다. 에프터이펙트 파트를 맡았습니다.',
+    image: 'assets/po8.png',
+    url:'https://youtu.be/7V_8f2wgPgw'
   }
 ];
