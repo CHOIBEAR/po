@@ -13,7 +13,7 @@ var portfolioItems = [
   {
     title:'프로젝트 시연영상',
     description: 'hideu 팀 개발 프로젝트 시연영상 입니다. 팀장과 제작총괄을 맡았습니다.',
-    image:'video-placeholder.png',
+    image:'assets/po0.png',
     url:'https://youtu.be/VmUwMCsS5V8'
   },
   {
