@@ -11,6 +11,12 @@
 
 var portfolioItems = [
   {
+    title: '프로젝트 시연영상',
+    description: 'hideu 팀 개발 프로젝트 시연영상 입니다.',
+    image: 'video-placeholder.png',
+    url:'https://youtu.be/VmUwMCsS5V8'
+  },
+  {
     title: '프로젝트 1',
     description: '첫 영상 편집 제작물입니다. 컷편집, 효과 등을 담당했습니다.',
     image: 'assets/po1.png',
